@@ -14,18 +14,10 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     // Floating Background Elements
-floatingEmojis: {
-     hearts: [
-        "https://i.imgur.com/tN5VbXL.png",
-        "https://i.imgur.com/j2pewVE.png",
-        "https://i.imgur.com/0RE0NlR.png",
-        "https://i.imgur.com/rzOrA59.png",
-        "https://i.imgur.com/uEflnLn.png"
-    ],
-    bears: [
-        "https://i.imgur.com/MRjUT9q.png",
-        "https://i.imgur.com/Nh3iq0e.png"],
-}
+   floatingEmojis: {
+        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        bears: ['🧸', '🐻']                       // Cute bear emojis
+    },
 
     // Questions and answers
     // Customize each question and its possible responses

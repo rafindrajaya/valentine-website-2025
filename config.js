@@ -13,7 +13,9 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
- hearts: [
+    // Floating Background Elements
+floatingEmojis: {
+     hearts: [
         "https://i.imgur.com/tN5VbXL.png",
         "https://i.imgur.com/j2pewVE.png",
         "https://i.imgur.com/0RE0NlR.png",
@@ -23,6 +25,8 @@ const CONFIG = {
     bears: [
         "https://i.imgur.com/MRjUT9q.png",
         "https://i.imgur.com/Nh3iq0e.png"],
+}
+
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
